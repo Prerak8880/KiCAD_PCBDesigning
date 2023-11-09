@@ -1,0 +1,1 @@
+There are 7 segments used to form any digit while one controls the decimal point. The other 4 out of the 12 pins control each of the 4 digits on the display. Any pin that has a resistor on it is one of the 4 digit pins, otherwise they are the segment pins.
