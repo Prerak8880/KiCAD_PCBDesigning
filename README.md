@@ -16,3 +16,8 @@
 ![f](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/ecaa1203-4012-407a-82e3-7aa7da93b01c)
 ![top](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/1629dfce-3ed6-4786-9154-2a49001321a0)
 
+# (5) 4-Digit 7 Segment Display
+![Screenshot 2023-11-10 050444](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/5290c1ba-b50f-40a8-8031-dd7b8723fc07)
+![Screenshot 2023-11-10 050419](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/e88b49b0-2d14-4a8b-8014-70e6101e60e7)
+![Screenshot 2023-11-10 050359](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/e659a6b1-6f62-46c3-87af-a6f8f3b61eb7)
+![2](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/ecb8b227-60c3-47e4-b89d-d20b19908127)
