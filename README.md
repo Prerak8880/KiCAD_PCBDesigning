@@ -21,3 +21,14 @@
 ![Screenshot 2023-11-10 050419](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/e88b49b0-2d14-4a8b-8014-70e6101e60e7)
 ![Screenshot 2023-11-10 050359](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/e659a6b1-6f62-46c3-87af-a6f8f3b61eb7)
 ![2](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/ecb8b227-60c3-47e4-b89d-d20b19908127)
+
+# (6) 8051 Development Board
+
+
+# (7) RP2040 Prototype 4 Layered PCB
+![RP2040](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/72bb3d37-63c6-4ccb-acdf-5be01e113a04)
+![6](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/003e299a-9a62-46e4-a3ed-03b8dabbd743)
+![5](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/0bdeefba-37b0-4e49-849b-e554098f39e8)
+![3](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/9a2e80f3-b6f4-4416-a493-151d9a5d1b2b)
+![1](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/fde65642-b284-45ac-be3b-5b6b579fc341)
+
