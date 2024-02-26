@@ -31,4 +31,6 @@
 ![5](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/0bdeefba-37b0-4e49-849b-e554098f39e8)
 ![3](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/9a2e80f3-b6f4-4416-a493-151d9a5d1b2b)
 ![1](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/fde65642-b284-45ac-be3b-5b6b579fc341)
+![4](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/3a089736-200a-4225-b583-d7269e1253f8)
+![newnnn](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/3945e29d-4008-47ff-b6a6-ece4c6eae12f)
 
