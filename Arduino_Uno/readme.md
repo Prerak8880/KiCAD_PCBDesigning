@@ -1,2 +1,2 @@
-# Arduino Uno
+# Arduino Uno CH340
 
