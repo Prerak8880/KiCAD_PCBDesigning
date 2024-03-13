@@ -2,19 +2,19 @@
 
 **<p>An Arduino Uno CH340 is an Arduino Uno board that uses the CH340 chip as its USB-to-Serial converter. This chip is more cost-effective compared to the Atmega16U2 used in the official Arduino Uno Rev3 boards. The CH340 board is functionally identical to the Uno Rev3, and it can run any Arduino sketch without modification. </p>**
 
-<br>  The 16U2 acts as a USB to serial converter. The Arduino bootloader in the Atmega328P allows the chip to be programmer via UART(serial port). Older computer systems had serial ports which could have been connected directly to the Atmega328P. But USB is ubiquitous these days and a USB to serial converter is needed to mimic the serial port over USB. Usually FTDI chips are used, but the arduino guys decided to go with 16u2 for some reason. The best part is that you can also program and create your own applications on the 16u2 if you have an In-circuit Serial Programmer. 
+<br>  The 16U2 acts as a USB-to-serial converter. The Arduino bootloader in the Atmega328P allows the chip to be programmed via UART(serial port). Older computer systems had serial ports that could have been connected directly to the Atmega328P. But USB is ubiquitous these days and a USB to serial converter is needed to mimic the serial port over USB. Usually, FTDI chips are used, but the Arduino guys decided to go with 16u2 for some reason. The best part is that you can also program and create your applications on the 16u2 if you have an In-circuit Serial Programmer. 
 
 <br>
 <br>
 ## Comparision(CH340 v/s Rev 3) ##
 - CH340<br>
-  - Compatibility Issues. <br>
+  - Compatibility Issues.<br>
 
-    ![9](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/e57c3f7c-fa21-4038-9191-de87e1bb7067)<br>
+   
+<br>
   - Upload Speed<br>
 
-    ![10](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/4af955fe-a291-4f84-a6f8-e2080871a170)
-    ![10](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/3f23a495-a8fb-4f70-bc2d-1987bb208000)<br>
+    
   - Power Consumption<br>
 
     ![10](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/eeede216-d19e-48e7-94a9-e43b778c8b42)<br>
