@@ -8,29 +8,29 @@
 <br>
 ## Comparision(CH340 v/s Rev 3) ##
 <br>
-- CH340<br>
-  - Compatibility Issues.
-<br>
-![9](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/ef4a9d8c-d35d-40fb-8653-3dcf75952d9e)
-
-     
-<br>
-  - Upload Speed<br>
-
-    
-  - Power Consumption<br>
-
-    ![10](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/eeede216-d19e-48e7-94a9-e43b778c8b42)<br>
-  - Timed Consumption<br>
-
-    ![10](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/e821f810-14f4-4027-ae23-4e0e5d2165af)<br>
-
-
-## Reference<br>
--- https://makersportal.com/blog/2019/3/12/testing-the-arduino-ch340-board
-
-
-
-
-
-
+- CH340 <br>
+    - Compatibility Issues.
+  <br>
+  ![9](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/ef4a9d8c-d35d-40fb-8653-3dcf75952d9e)
+  
+       
+  <br>
+    - Upload Speed<br>
+  
+      
+    - Power Consumption<br>
+  
+      ![10](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/eeede216-d19e-48e7-94a9-e43b778c8b42)<br>
+    - Timed Consumption<br>
+  
+      ![10](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/e821f810-14f4-4027-ae23-4e0e5d2165af)<br>
+  
+  
+  ## Reference<br>
+  -- https://makersportal.com/blog/2019/3/12/testing-the-arduino-ch340-board
+  
+  
+  
+  
+  
+  
