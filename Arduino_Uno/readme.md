@@ -7,6 +7,7 @@
 <br>
 <br>
 ## Comparision(CH340 v/s Rev 3) ##
+<br>
 - CH340<br>
   - Compatibility Issues.
 <br>
