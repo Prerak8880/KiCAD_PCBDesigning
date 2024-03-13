@@ -8,7 +8,8 @@
 <br>
 ## Comparision(CH340 v/s Rev 3) ##
 - CH340<br>
-  - Compatibility Issues.<br>
+  - Compatibility Issues.<b
+    ![9](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/306a5557-169b-4303-bc76-83db9a82987f)
 
    
 <br>
