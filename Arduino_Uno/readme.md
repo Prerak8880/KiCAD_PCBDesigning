@@ -5,7 +5,7 @@
 <br>
 ## Comparision(CH340 v/s Rev 3) ##
 - CH340<br>
-  - Compatibility Issues<br>.
+  - Compatibility Issues. <br>
   <br>
     ![9](https://github.com/Prerak8880/KiCAD_PCBDesigning/assets/96664052/e57c3f7c-fa21-4038-9191-de87e1bb7067)<br>
   - Upload Speed<br>
