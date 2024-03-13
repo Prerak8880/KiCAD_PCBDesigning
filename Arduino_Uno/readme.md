@@ -4,5 +4,6 @@
 <br>
 <br>
 ## Comparision(CH340 v/s Rev 3) ##
-- ks
+- CH340
+  - Compatibility Issues
 
